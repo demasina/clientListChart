@@ -1,0 +1,40 @@
+
+.ui.header:first-child {
+    color: #555555;
+}
+.clientRow {
+    color: #555555;
+    background: #ccc;
+}
+.clientRow:nth-child(even) {
+    background: #eee;
+}
+.table_list {
+    margin-top: 15px;
+    padding: 0 25px;
+    border-radius: 6px;
+    background: #eee;
+}
+.weight_text {
+    font-weight: 900;
+}
+.info_text .row p {
+    margin-bottom: 10px;
+}
+.info_block {
+    margin: 10px 0 5px 200px;
+}
+.user_header_wrap {
+    font-size: 16px;
+    font-weight: 900;
+}
+.chart {
+    margin-top: 10px;
+}
+.spinner-wrap {
+    margin-top: 20px;
+    text-align: center;
+}
+.all_client_items {
+    margin-top: 15px;
+}
